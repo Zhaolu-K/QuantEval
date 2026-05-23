@@ -1,0 +1,8 @@
+{
+    "openai_api_key": "sk-proj-CHO4OTa8eFjRCqxJ7dcMT3BlbkFJyhabP2kEXY4ai6ri3Bv5",
+    "openai_api_key_new": "sk-vbFdM71zraLkPPtzBH3UtlZ51keNevuz8x23e1KB0O0Lajag",
+    "claude_api_key": "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",
+    "max_token": 1024,
+    "deepseek_api_key": "sk-46f0dfce51b34cfca4c26bc2a9e4a0f9",
+    "deepseek_url": "https://api.deepseek.com"
+}
